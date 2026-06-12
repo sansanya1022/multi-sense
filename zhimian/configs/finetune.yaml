@@ -1,0 +1,55 @@
+run:
+  stage: finetune
+  experiment_name: synthetic_finetune
+  output_root: outputs
+  seed: 20240611
+  device: cpu
+  num_workers: 0
+  deterministic: true
+
+dataset:
+  kind: synthetic_sleep
+  train_size: 96
+  val_size: 48
+  signal_length: 256
+  temp_seq_len: 16
+  temp_grid_size: 9
+  num_classes: 4
+  hr_range: [55.0, 82.0]
+  rr_range: [11.0, 21.0]
+  noise_std: 0.08
+
+preprocessing:
+  signal_standardize: true
+  temp_standardize: true
+
+model:
+  bcg_encoder:
+    hidden_channels: 16
+    output_dim: 64
+  temp_encoder:
+    hidden_dim: 32
+    output_dim: 32
+  fusion:
+    output_dim: 64
+  heads:
+    num_classes: 4
+  uncertainty:
+    enabled: true
+
+optimization:
+  batch_size: 16
+  epochs: 2
+  learning_rate: 0.0005
+  weight_decay: 0.0001
+  grad_clip_norm: 1.0
+  cls_loss_weight: 1.0
+  hr_loss_weight: 0.2
+  rr_loss_weight: 0.2
+
+checkpoint:
+  monitor: val/total_loss
+  mode: min
+  save_best_filename: best.pt
+  save_config_filename: best_config.yaml
+

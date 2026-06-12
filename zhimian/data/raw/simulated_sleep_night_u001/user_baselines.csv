@@ -1,0 +1,2 @@
+user_id,hr_bpm,br_bpm,skin_temp_c,rmssd_ms,stillness,avg_sleep_latency_min_7d,pathological_insomnia_nights_7d
+u_001,68.0,15.0,36.4,42.0,0.78,18.0,0

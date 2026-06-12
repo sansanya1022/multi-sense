@@ -1,0 +1,172 @@
+timestamp,user_id,phase,state,confidence,rationale
+2026-06-11T22:10:00+08:00,u_001,PRE_SLEEP,S1,0.82,HR is 11.6% above baseline and BR is 13.1% above baseline
+2026-06-11T22:13:00+08:00,u_001,PRE_SLEEP,S1,0.82,HR is 10.9% above baseline and BR is 12.1% above baseline
+2026-06-11T22:16:00+08:00,u_001,PRE_SLEEP,S1,0.82,HR is 10.5% above baseline and BR is 9.5% above baseline
+2026-06-11T22:19:00+08:00,u_001,PRE_SLEEP,S1,0.82,HR is 8.1% above baseline and BR is 8.6% above baseline
+2026-06-11T22:22:00+08:00,u_001,PRE_SLEEP,S1,0.82,HR is 8.6% above baseline and BR is 8.2% above baseline
+2026-06-11T22:25:00+08:00,u_001,PRE_SLEEP,S1,0.82,HR is 8.1% above baseline and BR is 9.1% above baseline
+2026-06-11T22:28:00+08:00,u_001,PRE_SLEEP,S3,0.68,Mild arousal: HR is 3.6% and BR is 7.8% vs baseline
+2026-06-11T22:31:00+08:00,u_001,INDUCTION,S3,0.68,Mild arousal: HR is 7.4% and BR is 6.1% vs baseline
+2026-06-11T22:34:00+08:00,u_001,INDUCTION,S3,0.68,Mild arousal: HR is 3.5% and BR is 5.1% vs baseline
+2026-06-11T22:37:00+08:00,u_001,INDUCTION,S3,0.68,Mild arousal: HR is 3.5% and BR is 6.5% vs baseline
+2026-06-11T22:40:00+08:00,u_001,INDUCTION,S4,0.72,HR/BR are close to baseline and stillness is stable
+2026-06-11T22:43:00+08:00,u_001,INDUCTION,S3,0.68,Mild arousal: HR is 3.2% and BR is 1.4% vs baseline
+2026-06-11T22:46:00+08:00,u_001,INDUCTION,S4,0.72,HR/BR are close to baseline and stillness is stable
+2026-06-11T22:49:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T22:52:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T22:55:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T22:58:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:01:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:04:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:07:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:10:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:13:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:16:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:19:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:22:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:25:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:28:00+08:00,u_001,N1_N2,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:31:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:34:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:37:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:40:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:43:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:46:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:49:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:52:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:55:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-11T23:58:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:01:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:04:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:07:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:10:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:13:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:16:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:19:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:22:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:25:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:28:00+08:00,u_001,SLEEP,S5,0.74,HR is -8.3% below baseline and BR is -8.4% below baseline
+2026-06-12T00:31:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:34:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:37:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:40:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:43:00+08:00,u_001,SLEEP,S5,0.74,HR is -8.2% below baseline and BR is -9.9% below baseline
+2026-06-12T00:46:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.9% below baseline and BR is -8.8% below baseline
+2026-06-12T00:49:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:52:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T00:55:00+08:00,u_001,SLEEP,S5,0.74,HR is -8.7% below baseline and BR is -8.5% below baseline
+2026-06-12T00:58:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T01:01:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T01:04:00+08:00,u_001,SLEEP,S5,0.74,HR is -8.7% below baseline and BR is -11.1% below baseline
+2026-06-12T01:07:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T01:10:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.0% below baseline and BR is -9.6% below baseline
+2026-06-12T01:13:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.6% below baseline and BR is -11.0% below baseline
+2026-06-12T01:16:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.8% below baseline and BR is -8.6% below baseline
+2026-06-12T01:19:00+08:00,u_001,SLEEP,S3,0.7,Micro-arousal window with mild HR/BR elevation
+2026-06-12T01:22:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.4% below baseline and BR is -11.7% below baseline
+2026-06-12T01:25:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.1% below baseline and BR is -10.2% below baseline
+2026-06-12T01:28:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.6% below baseline and BR is -11.9% below baseline
+2026-06-12T01:31:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.1% below baseline and BR is -10.3% below baseline
+2026-06-12T01:34:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.6% below baseline and BR is -13.1% below baseline
+2026-06-12T01:37:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.4% below baseline and BR is -10.4% below baseline
+2026-06-12T01:40:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.0% below baseline and BR is -11.5% below baseline
+2026-06-12T01:43:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.0% below baseline and BR is -14.0% below baseline
+2026-06-12T01:46:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.8% below baseline and BR is -12.8% below baseline
+2026-06-12T01:49:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.7% below baseline and BR is -11.9% below baseline
+2026-06-12T01:52:00+08:00,u_001,SLEEP,S5,0.74,HR is -13.0% below baseline and BR is -12.3% below baseline
+2026-06-12T01:55:00+08:00,u_001,SLEEP,S5,0.74,HR is -13.1% below baseline and BR is -11.9% below baseline
+2026-06-12T01:58:00+08:00,u_001,SLEEP,S5,0.74,HR is -14.7% below baseline and BR is -11.9% below baseline
+2026-06-12T02:01:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.7% below baseline and BR is -15.1% below baseline
+2026-06-12T02:04:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.9% below baseline and BR is -12.9% below baseline
+2026-06-12T02:07:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.0% below baseline and BR is -13.1% below baseline
+2026-06-12T02:10:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.4% below baseline and BR is -10.7% below baseline
+2026-06-12T02:13:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.1% below baseline and BR is -13.5% below baseline
+2026-06-12T02:16:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.1% below baseline and BR is -13.0% below baseline
+2026-06-12T02:19:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.5% below baseline and BR is -12.7% below baseline
+2026-06-12T02:22:00+08:00,u_001,SLEEP,S5,0.74,HR is -13.0% below baseline and BR is -15.1% below baseline
+2026-06-12T02:25:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.4% below baseline and BR is -9.1% below baseline
+2026-06-12T02:28:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.4% below baseline and BR is -12.7% below baseline
+2026-06-12T02:31:00+08:00,u_001,SLEEP,S5,0.74,HR is -13.4% below baseline and BR is -12.1% below baseline
+2026-06-12T02:34:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.3% below baseline and BR is -11.0% below baseline
+2026-06-12T02:37:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.4% below baseline and BR is -13.3% below baseline
+2026-06-12T02:40:00+08:00,u_001,SLEEP,S5,0.74,HR is -13.3% below baseline and BR is -11.1% below baseline
+2026-06-12T02:43:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.9% below baseline and BR is -9.9% below baseline
+2026-06-12T02:46:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.4% below baseline and BR is -10.9% below baseline
+2026-06-12T02:49:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.0% below baseline and BR is -10.1% below baseline
+2026-06-12T02:52:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.9% below baseline and BR is -9.5% below baseline
+2026-06-12T02:55:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.8% below baseline and BR is -11.4% below baseline
+2026-06-12T02:58:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.7% below baseline and BR is -11.3% below baseline
+2026-06-12T03:01:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.1% below baseline and BR is -11.3% below baseline
+2026-06-12T03:04:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.0% below baseline and BR is -9.1% below baseline
+2026-06-12T03:07:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.2% below baseline and BR is -11.4% below baseline
+2026-06-12T03:10:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.4% below baseline and BR is -11.1% below baseline
+2026-06-12T03:13:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.5% below baseline and BR is -11.0% below baseline
+2026-06-12T03:16:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.5% below baseline and BR is -10.6% below baseline
+2026-06-12T03:19:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.5% below baseline and BR is -12.3% below baseline
+2026-06-12T03:22:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.4% below baseline and BR is -8.7% below baseline
+2026-06-12T03:25:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.4% below baseline and BR is -10.1% below baseline
+2026-06-12T03:28:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.6% below baseline and BR is -10.1% below baseline
+2026-06-12T03:31:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.2% below baseline and BR is -12.7% below baseline
+2026-06-12T03:34:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.4% below baseline and BR is -11.9% below baseline
+2026-06-12T03:37:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.9% below baseline and BR is -10.7% below baseline
+2026-06-12T03:40:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.5% below baseline and BR is -10.7% below baseline
+2026-06-12T03:43:00+08:00,u_001,SLEEP,S3,0.7,Micro-arousal window with mild HR/BR elevation
+2026-06-12T03:46:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.2% below baseline and BR is -10.7% below baseline
+2026-06-12T03:49:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.5% below baseline and BR is -11.6% below baseline
+2026-06-12T03:52:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.3% below baseline and BR is -11.4% below baseline
+2026-06-12T03:55:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.7% below baseline and BR is -10.9% below baseline
+2026-06-12T03:58:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.1% below baseline and BR is -12.4% below baseline
+2026-06-12T04:01:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.7% below baseline and BR is -13.5% below baseline
+2026-06-12T04:04:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.3% below baseline and BR is -8.1% below baseline
+2026-06-12T04:07:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.1% below baseline and BR is -11.9% below baseline
+2026-06-12T04:10:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.9% below baseline and BR is -11.1% below baseline
+2026-06-12T04:13:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.2% below baseline and BR is -13.4% below baseline
+2026-06-12T04:16:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.9% below baseline and BR is -10.3% below baseline
+2026-06-12T04:19:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.5% below baseline and BR is -12.0% below baseline
+2026-06-12T04:22:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.9% below baseline and BR is -11.5% below baseline
+2026-06-12T04:25:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.1% below baseline and BR is -11.9% below baseline
+2026-06-12T04:28:00+08:00,u_001,SLEEP,S5,0.74,HR is -10.6% below baseline and BR is -13.0% below baseline
+2026-06-12T04:31:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.3% below baseline and BR is -13.9% below baseline
+2026-06-12T04:34:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.2% below baseline and BR is -13.7% below baseline
+2026-06-12T04:37:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.5% below baseline and BR is -13.7% below baseline
+2026-06-12T04:40:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.3% below baseline and BR is -13.5% below baseline
+2026-06-12T04:43:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.3% below baseline and BR is -14.3% below baseline
+2026-06-12T04:46:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.0% below baseline and BR is -14.4% below baseline
+2026-06-12T04:49:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.8% below baseline and BR is -15.0% below baseline
+2026-06-12T04:52:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.0% below baseline and BR is -13.1% below baseline
+2026-06-12T04:55:00+08:00,u_001,SLEEP,S2,0.78,Transient wake-like arousal window with HR/BR elevation and stillness drop
+2026-06-12T04:58:00+08:00,u_001,SLEEP,S2,0.78,Transient wake-like arousal window with HR/BR elevation and stillness drop
+2026-06-12T05:01:00+08:00,u_001,SLEEP,S2,0.78,Transient wake-like arousal window with HR/BR elevation and stillness drop
+2026-06-12T05:04:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.2% below baseline and BR is -13.7% below baseline
+2026-06-12T05:07:00+08:00,u_001,SLEEP,S5,0.74,HR is -13.4% below baseline and BR is -14.7% below baseline
+2026-06-12T05:10:00+08:00,u_001,SLEEP,S5,0.74,HR is -13.6% below baseline and BR is -14.5% below baseline
+2026-06-12T05:13:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.0% below baseline and BR is -16.5% below baseline
+2026-06-12T05:16:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.8% below baseline and BR is -14.1% below baseline
+2026-06-12T05:19:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.4% below baseline and BR is -14.7% below baseline
+2026-06-12T05:22:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.8% below baseline and BR is -14.3% below baseline
+2026-06-12T05:25:00+08:00,u_001,SLEEP,S5,0.74,HR is -13.2% below baseline and BR is -17.9% below baseline
+2026-06-12T05:28:00+08:00,u_001,SLEEP,S5,0.74,HR is -12.1% below baseline and BR is -15.9% below baseline
+2026-06-12T05:31:00+08:00,u_001,SLEEP,S5,0.74,HR is -11.5% below baseline and BR is -9.4% below baseline
+2026-06-12T05:34:00+08:00,u_001,SLEEP,S5,0.74,HR is -9.3% below baseline and BR is -10.3% below baseline
+2026-06-12T05:37:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T05:40:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T05:43:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T05:46:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T05:49:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T05:52:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T05:55:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T05:58:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T06:01:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T06:04:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T06:07:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T06:10:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T06:13:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T06:16:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T06:19:00+08:00,u_001,SLEEP,S4,0.67,Stable sleep physiology close to personalized sleep target
+2026-06-12T06:22:00+08:00,u_001,WAKE,S2,0.7,Wake phase with rising HR/BR and lower stillness
+2026-06-12T06:25:00+08:00,u_001,WAKE,S2,0.7,Wake phase with rising HR/BR and lower stillness
+2026-06-12T06:28:00+08:00,u_001,WAKE,S2,0.7,Wake phase with rising HR/BR and lower stillness
+2026-06-12T06:31:00+08:00,u_001,WAKE,S2,0.7,Wake phase with rising HR/BR and lower stillness
+2026-06-12T06:34:00+08:00,u_001,WAKE,S2,0.7,Wake phase with rising HR/BR and lower stillness
+2026-06-12T06:37:00+08:00,u_001,WAKE,S2,0.7,Wake phase with rising HR/BR and lower stillness
+2026-06-12T06:40:00+08:00,u_001,WAKE,S2,0.7,Wake phase with rising HR/BR and lower stillness

@@ -1,0 +1,5 @@
+eval:
+  dataset_root: data/raw/simulated_sleep_night_u001
+  training_metrics_path: outputs/pretrain/simulated_sleep_night_u001_20260611_230020/metrics.txt
+  output_dir: outputs/eval/simulated_sleep_night_u001
+

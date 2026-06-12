@@ -1,0 +1,35 @@
+{
+  "user_id": "u_001",
+  "generated_at": "2026-06-11T22:10:00+08:00",
+  "age_band": "young_adult",
+  "thresholds": {
+    "s1_hr_pct": 0.08,
+    "s1_br_pct": 0.07,
+    "s2_br_pct": 0.15,
+    "s5_hr_pct": -0.05,
+    "s5_br_pct": -0.06,
+    "s6_latency_min": 45.0,
+    "s6_pathological_nights_7d": 3
+  },
+  "targets": {
+    "expected_sleep_hr_bpm": 63.24,
+    "expected_sleep_br_bpm": 13.5,
+    "preferred_temp_c": 36.2
+  },
+  "anchor_scales": {
+    "light_scale": 1.0,
+    "aroma_scale": 0.88,
+    "temp_cooling_scale": 0.92
+  },
+  "safety_bounds": {
+    "light_lux_min": 0.0,
+    "light_lux_max": 5.0,
+    "aroma_level_min": 0.0,
+    "aroma_level_max": 0.88,
+    "temp_delta_min_c": -5.0,
+    "temp_delta_max_c": 2.0,
+    "max_light_step_lux": 1.0,
+    "max_aroma_step": 0.1,
+    "max_temp_step_c": 0.5
+  }
+}

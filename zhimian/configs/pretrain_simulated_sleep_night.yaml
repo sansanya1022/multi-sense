@@ -1,0 +1,51 @@
+run:
+  stage: pretrain
+  experiment_name: simulated_sleep_night_u001
+  output_root: outputs
+  seed: 20240611
+  device: cpu
+  num_workers: 0
+  deterministic: true
+
+dataset:
+  kind: simulated_sleep_night
+  root_dir: data/raw/simulated_sleep_night_u001
+  signal_length: 30
+  temp_seq_len: 16
+  temp_grid_size: 9
+  num_classes: 6
+  train_split_ratio: 0.8
+
+preprocessing:
+  signal_standardize: true
+  temp_standardize: true
+
+model:
+  bcg_encoder:
+    hidden_channels: 16
+    output_dim: 64
+  temp_encoder:
+    hidden_dim: 32
+    output_dim: 32
+  fusion:
+    output_dim: 64
+  heads:
+    num_classes: 6
+  uncertainty:
+    enabled: true
+
+optimization:
+  batch_size: 16
+  epochs: 5
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  grad_clip_norm: 1.0
+  cls_loss_weight: 1.0
+  hr_loss_weight: 0.2
+  rr_loss_weight: 0.2
+
+checkpoint:
+  monitor: val/total_loss
+  mode: min
+  save_best_filename: best.pt
+  save_config_filename: best_config.yaml

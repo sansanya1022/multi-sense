@@ -1,0 +1,10 @@
+{
+  "user_id": "u_001",
+  "age": 29,
+  "sex": "female",
+  "stress_trait": 0.7,
+  "temperature_sensitivity": 0.5,
+  "aroma_sensitivity": 0.4,
+  "sleep_schedule_type": "regular"
+}
+

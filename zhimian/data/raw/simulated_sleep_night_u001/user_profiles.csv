@@ -1,0 +1,2 @@
+user_id,age,sex,stress_trait,temperature_sensitivity,aroma_sensitivity,sleep_schedule_type
+u_001,29,female,0.7,0.5,0.4,regular

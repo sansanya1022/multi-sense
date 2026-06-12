@@ -1,0 +1,11 @@
+{
+  "user_id": "u_001",
+  "hr_bpm": 68.0,
+  "br_bpm": 15.0,
+  "skin_temp_c": 36.4,
+  "rmssd_ms": 42.0,
+  "stillness": 0.78,
+  "avg_sleep_latency_min_7d": 18.0,
+  "pathological_insomnia_nights_7d": 0
+}
+

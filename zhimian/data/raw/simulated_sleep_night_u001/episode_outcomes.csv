@@ -1,0 +1,2 @@
+date,user_id,sleep_latency_min,deep_sleep_ratio,deep_sleep_proxy,wake_count,micro_arousal_count,subjective_morning_score
+2026-06-11,u_001,37.0,,0.72,1,2,4.1
